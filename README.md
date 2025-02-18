@@ -1,4 +1,4 @@
-### Hi y'all! 👋
+### Howdy y'all! 👋
 
 <!--
 **cadecrow/cadecrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
